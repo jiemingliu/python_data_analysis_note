@@ -8,3 +8,7 @@ import numpy as np
 转换数据类型 data1 = data.astype(np.int32)
 数组可以用于任何算术运算，以及索引访问，切片操作
 数组的索引可以用数组，但是两个数组的长度必须一致
+3.数组矢量化操作，矩阵计算
+
+第二部：pandas篇
+import pandas as pd
