@@ -1,3 +1,8 @@
+采用redis作为缓存数据库
+前篇：redis篇
+启动redis服务，cmd窗口，使用cd命令切换目录到 C:\redis 运行 redis-server.exe redis.windows.conf
+在配置文件redis.windows.conf中，可以修改host，端口等参数
+
 第一部：numpy篇
 import numpy as np
 1.数组的初始化，
