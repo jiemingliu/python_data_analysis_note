@@ -16,4 +16,6 @@ import numpy as np
 3.数组矢量化操作，矩阵计算
 
 第二部：pandas篇
+1.pandas可以处理文本类型，分隔符格式文件，json，xml，html，二进制，HDF5,Microsoft Excel，数据库等类型的数据
+2.数据整合：数据缺失，数据转换，聚合、合并、重塑数据
 import pandas as pd
